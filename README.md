@@ -2,7 +2,7 @@
 
 Welcome to the official online store of [Football Club Name]! Here, you can find a wide range of merchandise, including jerseys, accessories, and memorabilia. Our platform is designed to offer a seamless shopping experience, reflecting the pride and passion of our club.
 
-**[Visit the Website]([https://www.yourwebsite.com](https://zamalek-store.vercel.app/))**
+**[Visit the Website]**https://zamalek-store.vercel.app/
 
 ## 🚀 Project Overview
 
